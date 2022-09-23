@@ -80,4 +80,4 @@ The Bootstrap grid system has four classes:
 
 # Bootstap all Classes:
 
-[Duck Duck Go](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp)
+[Bootstraop all classes eamples](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp)
