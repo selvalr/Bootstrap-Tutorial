@@ -80,4 +80,4 @@ The Bootstrap grid system has four classes:
 
 # Bootstap all Classes:
 
-<image src="./Bootstrap All CSS Classes.pdf">
+<a href="./Bootstrap All CSS Classes.pdf">
