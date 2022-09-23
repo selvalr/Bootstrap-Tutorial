@@ -60,4 +60,24 @@ The Bootstrap grid system has four classes:
 - md (for small laptops - screens equal to or greater than 992px wide)
 - lg (for laptops and desktops - screens equal to or greater than 1200px wide)
 
+#BS text & bg Color:
+
+.text-muted,
+.text-primary,
+.text-success,
+.text-info,
+.text-warning,
+.text-
+
+.bg-primary,
+.bg-success,
+.bg-info,
+.bg-warning
+
+
+
 ```
+
+# Bootstap all Classes:
+
+<image src="./Bootstrap All CSS Classes.pdf">
