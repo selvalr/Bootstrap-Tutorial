@@ -1,4 +1,4 @@
-### What is Bootstrap :
+# What is Bootstrap :
 
 - Bootstrap is a free front-end framework for faster and easier web development
 - Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins
@@ -82,7 +82,7 @@ The Bootstrap grid system has four classes:
 
 [Bootstraop all classes eamples](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp)
 
-# Bootstrap 5
+# Bootstrap 5 cheetsheet:
 
 ![bootstrap 5 tutorial!](./cheetsheet/1.jpg "basic")
 ![bootstrap 5 tutorial!](./cheetsheet/2.jpg "basic")
