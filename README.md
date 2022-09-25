@@ -84,4 +84,15 @@ The Bootstrap grid system has four classes:
 
 # Bootstrap 5
 
-![The San Juan Mountains are beautiful!](./cheetsheet/1.jpg "San Juan Mountains")
+![bootstrap 5 tutorial!](./cheetsheet/1.jpg "basic")
+![bootstrap 5 tutorial!](./cheetsheet/2.jpg "basic")
+![bootstrap 5 tutorial!](./cheetsheet/3.jpg "basic")
+![bootstrap 5 tutorial!](./cheetsheet/4.jpg "basic")
+![bootstrap 5 tutorial!](./cheetsheet/5.jpg "basic")
+![bootstrap 5 tutorial!](./cheetsheet/6.jpg "basic")
+![bootstrap 5 tutorial!](./cheetsheet/7.jpg "basic")
+![bootstrap 5 tutorial!](./cheetsheet/8.jpg "basic")
+![bootstrap 5 tutorial!](./cheetsheet/9.jpg "basic")
+![bootstrap 5 tutorial!](./cheetsheet/10.jpg "basic")
+![bootstrap 5 tutorial!](./cheetsheet/11.jpg "basic")
+![bootstrap 5 tutorial!](./cheetsheet/12.jpg "basic")
