@@ -94,5 +94,5 @@ The Bootstrap grid system has four classes:
 ![bootstrap 5 tutorial!](./cheetsheet/8.jpg "basic")
 ![bootstrap 5 tutorial!](./cheetsheet/9.jpg "basic")
 ![bootstrap 5 tutorial!](./cheetsheet/10.jpg "basic")
-![bootstrap 5 tutorial!](./cheetsheet/11.jpg "basic")
+
 ![bootstrap 5 tutorial!](./cheetsheet/12.jpg "basic")
