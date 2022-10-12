@@ -1,10 +1,10 @@
-# What is Bootstrap :
+ What is Bootstrap :
 
 - Bootstrap is a free front-end framework for faster and easier web development
 - Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins
 - Bootstrap also gives you the ability to easily create responsive designs
 
-### Whu use Bootstrap:
+ Why use Bootstrap:
 
 - Increase development speed
 - 100% Open Source Framework
@@ -12,13 +12,13 @@
 - Mobile-first approach: In Bootstrap 3, mobile-first styles are part of the core framework
 - Browser compatibility: Bootstrap is compatible with all modern browsers
 
-### Bootstrap History
+ Bootstrap History
 
 - Bootstrap was developed by Mark Otto and Jacob Thornton at Twitter,
 - Released as an open source product in August 2011 on GitHub.
 - In June 2014 Bootstrap was the No.1 project on GitHub!
 
-### Where to Get Bootstrap?
+ Where to Get Bootstrap?
 
 - There are two ways to start using Bootstrap on your own web site.
 
@@ -27,10 +27,10 @@ You can:
 - Download Bootstrap from getbootstrap.com
 - Include Bootstrap from a CDN
 
-### Commands
+ # Classes:
 
-```bash
-#1.Container:
+
+**1.Container:**
 
 container --> The .container class provides a responsive fixed width container
 
@@ -38,7 +38,7 @@ container-fluid  --> The .container-fluid class provides a full width container,
 
 container well --> is a background color example
 
-#2.Bootstrap Grid System:
+**2.Bootstrap Grid System:**
 
 Bootstrap grid system allows up to 12 columns across the page.
 
@@ -52,7 +52,7 @@ span 1	span 1	span 1	span 1  	span 1	span 1	span 1	span 1	   span 1	span 1	span 
 
                                             span 12
 
-#Grid Classes:
+***Grid Classes:***
 The Bootstrap grid system has four classes:
 
 - xs (for phones - screens less than 768px wide)
@@ -60,7 +60,7 @@ The Bootstrap grid system has four classes:
 - md (for small laptops - screens equal to or greater than 992px wide)
 - lg (for laptops and desktops - screens equal to or greater than 1200px wide)
 
-#BS text & bg Color:
+**BS text & bg Color:**
 
 .text-muted,
 .text-primary,
@@ -78,11 +78,11 @@ The Bootstrap grid system has four classes:
 
 ```
 
-# Bootstap all Classes:
+ Bootstap all Classes:
 
 [Bootstraop all classes eamples](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp)
 
-# Bootstrap 5 cheetsheet:
+ Bootstrap 5 cheetsheet:
 
 ![bootstrap 5 tutorial!](./cheetsheet/1.jpg "basic")
 ![bootstrap 5 tutorial!](./cheetsheet/2.jpg "basic")
