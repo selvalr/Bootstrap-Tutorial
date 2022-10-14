@@ -173,9 +173,9 @@ line breaks.
 
 ---
 
-## Bootstap all Classes:
+# Bootstap all Classes:
 
-Bootstrap CSS All Class Reference in search link: [Duck Duck Go](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp).
+**Bootstrap CSS All Class Reference in search link:** [Duck Duck Go](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp).
  
 
 # Bootstrap 5 cheetsheet:
