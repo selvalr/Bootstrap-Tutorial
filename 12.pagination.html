@@ -11,6 +11,7 @@
 
 </head>
 <body>
+    <!--To create a basic pagination, add the .pagination class to an <ul> element:-->
     <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -24,7 +25,7 @@
                 </ul>
 
                 <hr>
-
+                <!--Add class .active to let the user know which page he/she is on:-->
                 <h1>Active Pagination</h1>
                 <ul class="pagination">
                     <li><a href="">1</a></li>
@@ -35,7 +36,17 @@
                 </ul>
 
                 <hr>
+                <!--Add class .disabled if a link for some reason is disabled:-->
+                <h1>disable</h1>
+                <ul class="pagination">
+                    <li><a href="#">1</a></li>
+                    <li><a href="#">2</a></li>
+                    <li><a href="#">3</a></li>
+                    <li class="disabled"><a href="#">4</a></li>
+                    <li><a href="#">5</a></li>
+                  </ul>
 
+                  <!--Add class .pagination-lg for larger blocks or .pagination-sm for smaller blocks:-->
                 <h1>Pagination large medium small</h1>
                 <ul class="pagination pagination-lg">
                     <li><a href="">1</a></li>

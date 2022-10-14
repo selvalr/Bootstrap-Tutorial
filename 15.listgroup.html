@@ -9,7 +9,9 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
+<!--To create a basic list group, use an <ul> element with class .list-group, and <li> elements with class .list-group-item:
 
+-->
 <div class="container">
   <h2>Basic List Group</h2>
   <ul class="list-group">
@@ -19,6 +21,7 @@
   </ul>
 
   <hr>
+  <!--To create a badge, create a <span> element with class .badge inside the list item:-->
 <h2>List group Badge</h2>
   <ul class="list-group">
     <li class="list-group-item">New <span class="badge">12</span></li>
@@ -28,6 +31,7 @@
 
   <hr>
 
+  <!--To create a list group with linked items, use <div> instead of <ul> and <a> instead of <li>:-->
   <h2>List group AngerTag</h2>
   <div class="list-group">
     <a href="#" class="list-group-item">First item</a>
@@ -36,6 +40,23 @@
   </div>
 </div>
 
+<hr>
 
+<!--Bootstrap provides the classes .list-group-item-heading and .list-group-item-text which can be used as follows:-->
+
+<div class="list-group">
+  <a href="#" class="list-group-item active">
+    <h4 class="list-group-item-heading">First List Group Item Heading</h4>
+    <p class="list-group-item-text">List Group Item Text</p>
+  </a>
+  <a href="#" class="list-group-item">
+    <h4 class="list-group-item-heading">Second List Group Item Heading</h4>
+    <p class="list-group-item-text">List Group Item Text</p>
+  </a>
+  <a href="#" class="list-group-item">
+    <h4 class="list-group-item-heading">Third List Group Item Heading</h4>
+    <p class="list-group-item-text">List Group Item Text</p>
+  </a>
+</div>
 </body>
 </html>

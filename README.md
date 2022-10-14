@@ -32,7 +32,7 @@ You can:
  # Classes:
 
 
-**1.Container:**
+**1.Container classes:**
 
 container --> The .container class provides a responsive fixed width container
 
