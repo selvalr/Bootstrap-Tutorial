@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <!--The Popover plugin is similar to tooltips; it is a pop-up box that appears when the user clicks on an element. The difference is that the popover can contain much more content.
+
+-->
+<!--To create a popover, add the data-toggle="popover" attribute to an element.
+
+Use the title attribute to specify the header text of the popover, and use the data-content attribute to specify the text that should be displayed inside the popover's body:-->
+<div class="container">
+  <h3>Popover Example</h3>
+  <a href="tryit.asp-filename=trybs_popover&stacked=h.html#" data-toggle="popover" title="Popover Header" data-content="Some content inside the popover">Toggle popover</a>
+</div>
+
+<script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover();   
+});
+</script>
+
+<hr>
+<!--By default, the popover will appear on the right side of the element.
+
+Use the data-placement attribute to set the position of the popover on top, bottom, left or the right side of the element:-->
+<div class="container">
+    <h3>Popover position</h3>
+    <ul class="list-inline">
+      <li><a href="tryit.asp-filename=trybs_popover_pos&stacked=h.html#" title="Header" data-toggle="popover" data-placement="top" data-content="Content">Top</a></li>
+      <li><a href="tryit.asp-filename=trybs_popover_pos&stacked=h.html#" title="Header" data-toggle="popover" data-placement="bottom" data-content="Content">Bottom</a></li>
+      <li><a href="tryit.asp-filename=trybs_popover_pos&stacked=h.html#" title="Header" data-toggle="popover" data-placement="left" data-content="Content">Left</a></li>
+      <li><a href="tryit.asp-filename=trybs_popover_pos&stacked=h.html#" title="Header" data-toggle="popover" data-placement="right" data-content="Content">Right</a></li>
+    </ul>
+  </div>
+  
+  <script>
+  $(document).ready(function(){
+      $('[data-toggle="popover"]').popover();   
+  });
+  </script>
+  
+</body>
+</html>
