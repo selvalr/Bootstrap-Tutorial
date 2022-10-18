@@ -173,9 +173,18 @@ line breaks.
 
 ---
 
+# Bootstrap Examples:
+
+[Bootstrap Example Click Me](https://www.w3schools.com/bootstrap/bootstrap_examples.asp).
+ 
+
+---
+
 # Bootstap all Classes:
 
-## **Bootstrap CSS All Class Reference in search link:** [Click Me](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp).
+## **Bootstrap CSS All Class Reference in search link:** 
+
+[Click Me](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp).
  
 
 # Bootstrap 5 cheetsheet:
